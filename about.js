@@ -13,7 +13,7 @@ let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
 
-let image = document.querySelector('#img src')
+let image = document.querySelector('img')
 
 function reveal(evt) {
 	evt.preventDefault();
